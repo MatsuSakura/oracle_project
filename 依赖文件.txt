@@ -1,0 +1,12 @@
+git教程 https://www.runoob.com/git/git-tutorial.html
+
+Java-JFrame可视化开发 https://www.cnblogs.com/lsy-blogs/p/7717036.html
+
+Java教程+mysql连接 https://www.runoob.com/java/java-mysql-connect.html
+
+mysql教程 https://www.runoob.com/mysql/mysql-tutorial.html
+
+git version 2.29.2.windows.2
+Eclipse IDE for Java Developers Version: 4.19.0
+MySQL version 5.7.2
+JDBC mysql-connector-java-5.1.18
